@@ -1,7 +1,7 @@
 {
     "name": "benfurfie/remove-wordpress-comments",
     "description": "Removes comments function from WordPress",
-    "type": "wordpress-plugin",
+    "type": "wordpress-muplugin",
     "authors": [
         {
             "name": "Ben Furfie",
