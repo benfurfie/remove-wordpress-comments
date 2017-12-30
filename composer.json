@@ -1,0 +1,16 @@
+{
+    "name": "benfurfie/remove-wordpress-comments",
+    "description": "Removes comments function from WordPress",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Ben Furfie",
+            "email": "hello@benfurfie.co.uk",
+            "homepage": "https://www.benfurfie.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "composer/installers": "^1.0"
+    }
+}
