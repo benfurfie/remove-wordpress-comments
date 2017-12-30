@@ -1,14 +1,14 @@
 <?php
 /**
  * @package remove-wordpress-comments
- * @version 0.1.2
+ * @version 0.1.3
  */
 
 /*
   Plugin Name: Remove WordPress Comments
   Author: Ben Furfie
   Author URI: http://www.benfurfie.co.uk
-  Version: 0.1.2
+  Version: 0.1.3
 */
 
 defined('ABSPATH') or die('You cannot access this page directly.');
